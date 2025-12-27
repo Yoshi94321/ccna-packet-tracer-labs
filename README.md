@@ -10,10 +10,7 @@ CCNA学習用に、Cisco Packet Tracerで作成したネットワーク構成を
   - accessポート割り当て
   - VLAN間通信不可の確認
 
-今後追加予定：
-- Lab02: Router-on-a-Stick（VLAN間ルーティング）
-- Static Routing
-- OSPF
-- DHCP / NAT
-- ACL
-EOF
+- Lab02: Router-on-a-Stick
+  - VLAN 間ルーティング（802.1Q）
+  - trunk / サブインターフェース
+  - ARP / ICMP の挙動を Simulation で確認
